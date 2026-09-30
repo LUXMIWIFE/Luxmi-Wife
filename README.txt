@@ -1,0 +1,1 @@
+Custom modeling portfolio using all 8 uploaded images. Edit index.html to replace model name, bio, details and contact links. Visible watermarks in the source photos are retained.
